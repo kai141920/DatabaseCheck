@@ -1,0 +1,157 @@
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+C:\Users\Asus\Desktop\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csprojResolveAssemblyReference.cache
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csprojResolveAssemblyReference.cache
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+E:\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.Cache
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.SuggestedBindingRedirects.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+C:\School Projects\IT Department\Second Year(2023-2024)\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+E:\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+C:\Users\Asus\Desktop\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.All_List_Patient_And_Illnesses.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.SuggestedBindingRedirects.cache
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.All_List_Patient_And_Illnesses.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.diagnos.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DiagnosRecord.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Patient.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+D:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.All_List_Patient_And_Illnesses.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Patient.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+E:\1.SYSTEM\1.SYSTEM\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\MySql.Data.dll
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.exe.config
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.AssemblyReference.cache
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.All_List_Patient_And_Illnesses.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Records.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Appointment_Scheduling.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.History.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Patient.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp_Records.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.DashBoard.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Login.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.CheckUp.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Patient_Record.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.Properties.Resources.resources
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.GenerateResource.cache
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CoreCompileInputs.cache
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.csproj.CopyComplete
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.exe
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\obj\Debug\Brgy_TambisII_Health_Care.pdb
+D:\database tambis2checkup\Brgy_TambisII_Health_Care\Brgy_TambisII_Health_Care\bin\Debug\Brgy_TambisII_Health_Care.pdb
